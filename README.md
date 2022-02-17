@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Inamurahman
 - 📫 Reach me at 
-  mail- inamvkd@gmail.com 
+  mail inamvkd@gmail.com 
   whatsapp https://bit.ly/3BtEvyP
   instagram www.instagram.com/in__am
 
