@@ -21,5 +21,3 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/inamurahman"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="inamurahman" /></a></p><br><br>
 
-
-[![@inamvkd's Holopin board](https://holopin.io/api/user/board?user=inamvkd)](https://holopin.io/@inamvkd)
