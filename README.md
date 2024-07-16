@@ -3,4 +3,4 @@
 
 - 🌱 I’m currently learning **BTech in Computer Science and Data Science**
 
-- 📫 How to reach me **inamvkd@gmail.com**
+- 📫 Reach me at **mail@inam.xyz**
